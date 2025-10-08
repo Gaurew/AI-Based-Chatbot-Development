@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Environments
+.env
+.venv/
+venv/
+
+# Playwright
+playwright/.cache/
+
+# Data & artifacts
+data/raw/
+data/db/
+.chroma/
+
+# Node/Frontend (if any)
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+.chroma/

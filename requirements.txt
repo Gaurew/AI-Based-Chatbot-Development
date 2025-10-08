@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+playwright
+selectolax
+beautifulsoup4
+httpx
+pydantic
+python-dotenv
+langchain
+google-generativeai
+chromadb
+sentence-transformers  # optional if using local embeddings
+sqlite-utils           # optional for quick storage
+jinja2                 # for simple templating (optional)
